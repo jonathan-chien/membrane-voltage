@@ -1,0 +1,16 @@
+name: membrane_voltage
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10.16
+  - numpy
+  - matplotlib
+  - scipy
+  - ipykernel
+  - ipympl
+  - jaxlib
+  - jax
+  - joblib
+prefix: /Users/jonathan/miniconda3/envs/membrane_voltage
